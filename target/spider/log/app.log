@@ -1,0 +1,87 @@
+[DEBUG]2015-10-30 13:55:45,636, [Class]QueueScheduler, push to queue http://dianying.fm/search/?genre=%E5%96%9C%E5%89%A7
+[DEBUG]2015-10-30 13:56:24,170, [Class]QueueScheduler, push to queue http://dianying.fm/search/?genre=%E5%96%9C%E5%89%A7
+[INFO ]2015-10-30 13:56:24,826, [Class]Spider, Spider dianying.fm started!
+[INFO ]2015-10-30 13:56:24,827, [Class]HttpClientDownloader, downloading page http://dianying.fm/search/?genre=%E5%96%9C%E5%89%A7
+[DEBUG]2015-10-30 13:56:25,619, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/wall-e/
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/yin-hun/
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/hai-zei-wang/
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/3-idiots/
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/da-hua-xi-you-zhi-da-sheng-qu-qin/
+[DEBUG]2015-10-30 13:56:25,968, [Class]QueueScheduler, push to queue http://dianying.fm/movie/intouchables/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/duo-la-a-meng/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/partly-cloudy/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/lock-stock-and-two-smoking-barrels/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/up-2009/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/flipped/
+[DEBUG]2015-10-30 13:56:25,969, [Class]QueueScheduler, push to queue http://dianying.fm/movie/roman-holiday/
+[DEBUG]2015-10-30 13:56:25,971, [Class]QueueScheduler, push to queue http://dianying.fm/movie/da-hua-xi-you-zhi-yue-guang-bao-he/
+[DEBUG]2015-10-30 13:56:25,971, [Class]QueueScheduler, push to queue http://dianying.fm/movie/modern-times/
+[DEBUG]2015-10-30 13:56:25,971, [Class]QueueScheduler, push to queue http://dianying.fm/movie/le-fabuleux-destin-d-39-am-lie-poulain/
+[INFO ]2015-10-30 13:56:26,073, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/wall-e/
+[INFO ]2015-10-30 13:56:26,073, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/yin-hun/
+[INFO ]2015-10-30 13:56:26,075, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/hai-zei-wang/
+[INFO ]2015-10-30 13:56:26,076, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/da-hua-xi-you-zhi-da-sheng-qu-qin/
+[INFO ]2015-10-30 13:56:26,077, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/3-idiots/
+[DEBUG]2015-10-30 13:56:26,348, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:26,392, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:26,407, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:26,424, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:26,446, [Class]HttpClientDownloader, Auto get charset: utf-8
+[INFO ]2015-10-30 13:56:26,912, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/intouchables/
+[INFO ]2015-10-30 13:56:26,913, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/partly-cloudy/
+[INFO ]2015-10-30 13:56:26,912, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/duo-la-a-meng/
+[INFO ]2015-10-30 13:56:26,913, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/lock-stock-and-two-smoking-barrels/
+[INFO ]2015-10-30 13:56:26,914, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/up-2009/
+[DEBUG]2015-10-30 13:56:27,252, [Class]HttpClientDownloader, Auto get charset: utf-8
+[INFO ]2015-10-30 13:56:27,383, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/flipped/
+[DEBUG]2015-10-30 13:56:27,393, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,399, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,431, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,441, [Class]HttpClientDownloader, Auto get charset: utf-8
+[INFO ]2015-10-30 13:56:27,527, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/roman-holiday/
+[INFO ]2015-10-30 13:56:27,529, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/da-hua-xi-you-zhi-yue-guang-bao-he/
+[DEBUG]2015-10-30 13:56:27,565, [Class]HttpClientDownloader, Auto get charset: utf-8
+[INFO ]2015-10-30 13:56:27,570, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/modern-times/
+[INFO ]2015-10-30 13:56:27,578, [Class]HttpClientDownloader, downloading page http://dianying.fm/movie/le-fabuleux-destin-d-39-am-lie-poulain/
+[DEBUG]2015-10-30 13:56:27,745, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,794, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,805, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:27,959, [Class]HttpClientDownloader, Auto get charset: utf-8
+[DEBUG]2015-10-30 13:56:29,017, [Class]MutableMetricsFactory, field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.loginSuccess with annotation @org.apache.hadoop.metrics2.annotation.Metric(value=[Rate of successful kerberos logins and latency (milliseconds)], valueName=Time, about=, type=DEFAULT, always=false, sampleName=Ops)
+[DEBUG]2015-10-30 13:56:29,037, [Class]MutableMetricsFactory, field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.loginFailure with annotation @org.apache.hadoop.metrics2.annotation.Metric(value=[Rate of failed kerberos logins and latency (milliseconds)], valueName=Time, about=, type=DEFAULT, always=false, sampleName=Ops)
+[DEBUG]2015-10-30 13:56:29,037, [Class]MutableMetricsFactory, field org.apache.hadoop.metrics2.lib.MutableRate org.apache.hadoop.security.UserGroupInformation$UgiMetrics.getGroups with annotation @org.apache.hadoop.metrics2.annotation.Metric(value=[GetGroups], valueName=Time, about=, type=DEFAULT, always=false, sampleName=Ops)
+[DEBUG]2015-10-30 13:56:29,038, [Class]MetricsSystemImpl, UgiMetrics, User and group related metrics
+[DEBUG]2015-10-30 13:56:29,400, [Class]KerberosName, Kerberos krb5 configuration not found, setting default realm to empty
+[DEBUG]2015-10-30 13:56:29,411, [Class]Groups,  Creating new Groups object
+[DEBUG]2015-10-30 13:56:29,414, [Class]NativeCodeLoader, Trying to load the custom-built native-hadoop library...
+[DEBUG]2015-10-30 13:56:29,428, [Class]NativeCodeLoader, Failed to load native-hadoop with error: java.lang.UnsatisfiedLinkError: no hadoop in java.library.path
+[DEBUG]2015-10-30 13:56:29,428, [Class]NativeCodeLoader, java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+[WARN ]2015-10-30 13:56:29,428, [Class]NativeCodeLoader, Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[DEBUG]2015-10-30 13:56:29,429, [Class]PerformanceAdvisory, Falling back to shell based
+[DEBUG]2015-10-30 13:56:29,430, [Class]JniBasedUnixGroupsMappingWithFallback, Group mapping impl=org.apache.hadoop.security.ShellBasedUnixGroupsMapping
+[DEBUG]2015-10-30 13:56:29,569, [Class]Shell, setsid exited with exit code 0
+[DEBUG]2015-10-30 13:56:29,611, [Class]Groups, Group mapping impl=org.apache.hadoop.security.JniBasedUnixGroupsMappingWithFallback; cacheTimeout=300000; warningDeltaMs=5000
+[DEBUG]2015-10-30 13:56:29,654, [Class]UserGroupInformation, hadoop login
+[DEBUG]2015-10-30 13:56:29,655, [Class]UserGroupInformation, hadoop login commit
+[DEBUG]2015-10-30 13:56:29,691, [Class]UserGroupInformation, using local user:UnixPrincipal: nancheng
+[DEBUG]2015-10-30 13:56:29,692, [Class]UserGroupInformation, Using user: "UnixPrincipal: nancheng" with name nancheng
+[DEBUG]2015-10-30 13:56:29,692, [Class]UserGroupInformation, User entry: "nancheng"
+[DEBUG]2015-10-30 13:56:29,693, [Class]UserGroupInformation, UGI loginUser:nancheng (auth:SIMPLE)
+[DEBUG]2015-10-30 13:56:29,949, [Class]BlockReaderLocal, dfs.client.use.legacy.blockreader.local = false
+[DEBUG]2015-10-30 13:56:29,949, [Class]BlockReaderLocal, dfs.client.read.shortcircuit = false
+[DEBUG]2015-10-30 13:56:29,950, [Class]BlockReaderLocal, dfs.client.domain.socket.data.traffic = false
+[DEBUG]2015-10-30 13:56:29,950, [Class]BlockReaderLocal, dfs.domain.socket.path = 
+[DEBUG]2015-10-30 13:56:29,972, [Class]DFSClient, No KeyProvider found.
+[DEBUG]2015-10-30 13:56:30,057, [Class]RetryUtils, multipleLinearRandomRetry = null
+[DEBUG]2015-10-30 13:56:30,098, [Class]Server, rpcKind=RPC_PROTOCOL_BUFFER, rpcRequestWrapperClass=class org.apache.hadoop.ipc.ProtobufRpcEngine$RpcRequestWrapper, rpcInvoker=org.apache.hadoop.ipc.ProtobufRpcEngine$Server$ProtoBufRpcInvoker@68c9b963
+[DEBUG]2015-10-30 13:56:30,104, [Class]Client, getting client out of cache: org.apache.hadoop.ipc.Client@3f0ab7c0
+[DEBUG]2015-10-30 13:56:30,616, [Class]PerformanceAdvisory, Both short-circuit local reads and UNIX domain socket are disabled.
+[DEBUG]2015-10-30 13:56:30,635, [Class]DataTransferSaslUtil, DataTransferProtocol not using SaslPropertiesResolver, no QOP found in configuration for dfs.data.transfer.protection
+[ERROR]2015-10-30 13:56:30,640, [Class]GithubRepoPageProcessor, java.net.URISyntaxException: Illegal character in scheme name at index 0:   hdfs://localhost:9000/user/nancheng/out-1193959466
+[ERROR]2015-10-30 13:56:30,640, [Class]GithubRepoPageProcessor, 运行hadoop出错
+[INFO ]2015-10-30 13:56:30,640, [Class]GithubRepoPageProcessor, 运行hadoop成功！！！
+[DEBUG]2015-10-30 13:56:30,651, [Class]Client, stopping client from cache: org.apache.hadoop.ipc.Client@3f0ab7c0
+[DEBUG]2015-10-30 13:56:30,652, [Class]Client, removing client from cache: org.apache.hadoop.ipc.Client@3f0ab7c0
+[DEBUG]2015-10-30 13:56:30,652, [Class]Client, stopping actual client because no more references remain: org.apache.hadoop.ipc.Client@3f0ab7c0
+[DEBUG]2015-10-30 13:56:30,653, [Class]Client, Stopping client

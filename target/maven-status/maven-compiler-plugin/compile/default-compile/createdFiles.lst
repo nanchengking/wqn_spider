@@ -1,0 +1,4 @@
+wqn_spider/test/WordCount$TokenizerMapper.class
+wqn_spider/test/WordCount.class
+wqn_spider/test/WordCount$IntSumReducer.class
+wqn_spider/test/GithubRepoPageProcessor.class
